@@ -1,0 +1,13 @@
+ID,Code,Name,Price,Quantity,Date Created,Department
+0,AS12,Pencil Pack (2B 4B 6B 8B),14.99,50,4/24/2022,Art
+1,BD42,Notebook-100ct,8.99,40,1/24/2022,Art
+2,G43D,Lego Build Kit,24.98,20,1/18/2021,Art
+3,D5RF,Watercolor Brush,1.99,100,8/9/2018,Art
+4,4XRS,Graphics Card,2000.00,0,5/30/2009,Computer
+5,57UJ,Keyboard-65,83.99,10,2/20/2022,Computer
+6,IKM8,Monitor,107.99,10,4/24/2022,Computer
+7,RED8,Drum Set,150.99,5,5/2/2021,Music
+8,7U86,Music for Dummies,11.99,1,5/2/2021,Books
+9,7T76,Algorithms for Dummies,24.20,99,7/2/1999,Books
+10,U8I0,Fanny Pack,15.99,30,3/24/2022,Fashion
+11,4R5E,Apples,1.00,20,4/24/2022,Food

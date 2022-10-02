@@ -1,0 +1,7 @@
+Salt Lake City,300,300
+Ogden,300,400
+Brigham City,250,500
+Logan,300,600
+Park City,500,200
+Tooele,200,200
+Provo,450,150

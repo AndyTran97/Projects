@@ -1,0 +1,9 @@
+Salt Lake City,Ogden
+Salt Lake City,Park City
+Salt Lake City,Tooele
+Ogden,Brigham City
+Ogden,Tooele
+Ogden,Park City
+Brigham City,Logan
+Tooele,Provo
+Park City,Provo
