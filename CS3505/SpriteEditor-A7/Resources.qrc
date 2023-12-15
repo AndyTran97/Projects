@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/Bucket.PNG</file>
+        <file>icons/Color.PNG</file>
+        <file>icons/Eraser.PNG</file>
+        <file>icons/Pencil.PNG</file>
+        <file>icons/Picker.PNG</file>
+    </qresource>
+</RCC>
